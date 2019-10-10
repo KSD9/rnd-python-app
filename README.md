@@ -21,8 +21,8 @@ Pip 3
 **Linux**:
 
 1. Clone this repo.
-2. install requirements with pip3
-3. run server with 
+2. Install requirements with pip3
+3. Run server with 
 
 ```
 python3 manage.py runserver
@@ -35,8 +35,11 @@ python3 api_requests_manager.py
 
 ```
 
-5. To run the tests run python3 manage.py test
+5. To run the tests run:
+```
+python3 manage.py test
 
+```
 
 
 
