@@ -21,7 +21,12 @@ Pip 3
 **Linux**:
 
 1. Clone this repo.
-2. Install requirements with pip3
+2. Install requirements with pip3:
+
+```
+pip3 install -r requirements.txt 
+
+```
 3. Run server with 
 
 ```
